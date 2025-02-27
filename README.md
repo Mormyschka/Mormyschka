@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mormyschka
 - 👀 I’m interested in learning Python and SQL. I'm also intersted in medicine, photography and camping
 - 🌱 I’m currently learning data analysis in Netology
-- 😄 Pronouns: she/her
+
 
 
 
